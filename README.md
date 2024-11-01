@@ -53,5 +53,5 @@ Full-stack development role utilizing Ruby on Rails to build and enhance a platf
 
 <p align="left">
 <a href="https://linkedin.com/in/shaharyar-qureshi-0499a5142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaharyar-qureshi" height="30" width="40" /></a>
-<a href="https://github.com/sheharyarQureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sheharyarQureshi" height="30" width="40" /></a>
+<a href="https://github.com/shaharyar-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sheharyarQureshi" height="30" width="40" /></a>
 </p>

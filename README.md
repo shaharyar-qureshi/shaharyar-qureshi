@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheharyar Qureshi</h1>
+<h1 align="center">Hi 👋, I'm Shaharyar Qureshi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p>I have comprehensive expertise in various tech stacks, especially Ruby on Rails and Django. With experience in adding new functionalities to existing systems and building new applications, I quickly understand client requirements and collaborate effectively with engineering teams. I am dedicated to writing clean, maintainable, and scalable code.</p>

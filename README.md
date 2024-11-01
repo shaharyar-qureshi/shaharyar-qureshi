@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheharyar Qureshi</h1>
-<h3 align="center">A passionate Full Stack RoR Developer from Lahore, Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p>I have comprehensive expertise in various tech stacks, especially Ruby on Rails and Django. With experience in adding new functionalities to existing systems and building new applications, I quickly understand client requirements and collaborate effectively with engineering teams. I am dedicated to writing clean, maintainable, and scalable code.</p>
 <p>Available for new opportunities. Contact me if you have a position that matches my profile! 👨🏻‍💻</p>
@@ -13,7 +13,7 @@ A platform for managing contracts with features like a recurring meeting module,
 Developed a robust CRM platform for Dubizzle Labs tailored for property management and contract handling. Key features included a recurring meeting module, free services for contracts, and an area visualization report powered by Elasticsearch for insightful data analysis.
 
 ### 🌱 **Green Ant**
-Contributed to the development of an educational platform for children's learning using Django and Ember.js. Focused on creating engaging content and tracking progress tailored to individual needs.
+Contributed to developing an educational platform for children's learning using Django and Ember.js. Focused on creating engaging content and tracking progress tailored to individual needs.
 
 ### 🧠 **Mindtales**
 Contributed to a mental wellness platform using Django, focusing on user engagement and personalized content delivery, implementing features for user feedback and analytics.
